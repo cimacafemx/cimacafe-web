@@ -1,0 +1,9 @@
+.DS_Store
+._*
+*.xlsx
+*.csv
+*.pdf
+*.ai
+*.psd
+.env
+borrador/
